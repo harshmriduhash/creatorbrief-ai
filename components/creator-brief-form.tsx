@@ -239,7 +239,7 @@ export default function CreatorBriefGenerator() {
                 <Label htmlFor="campaignGoals">Campaign Goals</Label>
                 <Input
                   id="campaignGoals"
-                  placeholder="e.g., Increase brand awareness and drive conversions"
+                  placeholder="e.g., Increase brand awareness & drive conversions"
                   value={formData.campaignGoals}
                   onChange={(e) =>
                     handleInputChange("campaignGoals", e.target.value)
