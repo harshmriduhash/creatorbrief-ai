@@ -248,7 +248,7 @@ export default function CreatorBriefGenerator() {
               </div>
 
               <div>
-                <Label>Platforms *</Label>
+                <Label>Platforms*</Label>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-2 mt-2">
                   {PLATFORM_OPTIONS.map((platform) => (
                     <button
