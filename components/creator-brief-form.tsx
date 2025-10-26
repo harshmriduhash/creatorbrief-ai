@@ -190,7 +190,7 @@ export default function CreatorBriefGenerator() {
             <CardContent className="space-y-4">
               <div>
                 <Label htmlFor="productDescription">
-                  Product Description *
+                  Product Description*
                 </Label>
                 <Textarea
                   id="productDescription"
