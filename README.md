@@ -35,7 +35,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/creatorbrief-ai.git
+   git clone https://github.com/harshmriduhash/creatorbrief-ai.git
    cd creatorbrief-ai
    ```
 
