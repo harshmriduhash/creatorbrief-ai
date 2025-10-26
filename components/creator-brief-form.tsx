@@ -208,7 +208,7 @@ export default function CreatorBriefGenerator() {
               </div>
 
               <div>
-                <Label htmlFor="targetAudience">Target Audience *</Label>
+                <Label htmlFor="targetAudience">Target Audience*</Label>
                 <Textarea
                   id="targetAudience"
                   placeholder="Describe your ideal customers. Include demographics, interests, behaviors, and pain points..."
