@@ -64,7 +64,7 @@ const BUDGET_OPTIONS = [
   "$5,000 - $10,000",
   "$10,000 - $25,000",
   "$25,000 - $50,000",
-  "Over $50,000",
+  "Over $60,000",
 ];
 
 export default function CreatorBriefGenerator() {
