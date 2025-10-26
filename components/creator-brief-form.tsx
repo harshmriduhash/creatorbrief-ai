@@ -231,7 +231,7 @@ export default function CreatorBriefGenerator() {
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
                 <Calendar className="h-5 w-5" />
-                Details for 
+                Details for Campaign 
               </CardTitle>
             </CardHeader>
             <CardContent className="space-y-4">
