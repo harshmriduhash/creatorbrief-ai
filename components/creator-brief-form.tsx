@@ -53,6 +53,7 @@ const PLATFORM_OPTIONS = [
   "TikTok",
   "Twitter/X",
   "LinkedIn",
+  "YouTube",
   "Snapchat",
   "Pinterest",
 ];
