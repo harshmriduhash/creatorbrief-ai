@@ -51,7 +51,6 @@ interface CreatorBriefOutput {
 const PLATFORM_OPTIONS = [
   "Instagram",
   "TikTok",
-  "YouTube",
   "Twitter/X",
   "LinkedIn",
   "Snapchat",
