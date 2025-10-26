@@ -236,7 +236,7 @@ export default function CreatorBriefGenerator() {
             </CardHeader>
             <CardContent className="space-y-4">
               <div>
-                <Label htmlFor="campaignGoals">Campaign Goals</Label>
+                <Label htmlFor="campaignGoals">Campaign Goal</Label>
                 <Input
                   id="campaignGoals"
                   placeholder="e.g., Increase brand awareness & drive conversions"
